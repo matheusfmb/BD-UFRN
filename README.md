@@ -17,6 +17,9 @@ Visualização detalhada dos dashboards:
 [Dashboards](https://datastudio.google.com/reporting/b16039eb-7bc9-43b6-802f-e0928dc26809)
 
 Heitor Negromonte: https://github.com/HeitorNOC
+<br></br>
 Matheus Felipe: https://github.com/matheusfmb
+<br></br>
 Ruan Rocha: https://github.com/RUANR0CHA
+<br></br>
 Clara fontes: https://github.com/ClaraFontes
