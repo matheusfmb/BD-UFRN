@@ -16,4 +16,7 @@ Utilizando a ferramenta MySQL Workbench, construímos toda a estrutura do banco 
 Visualização detalhada dos dashboards: 
 [Dashboards](https://datastudio.google.com/reporting/b16039eb-7bc9-43b6-802f-e0928dc26809)
 
-
+Heitor Negromonte: https://github.com/HeitorNOC
+Matheus Felipe: https://github.com/matheusfmb
+Ruan Rocha: https://github.com/RUANR0CHA
+Clara fontes: https://github.com/ClaraFontes
